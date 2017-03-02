@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<html>
+<title>Circle</title>
+<style>
+  #slate {
+    border:1px solid;
+    }
+</style>
+<body> 
+<div>
+<canvas width="400" height="300" id="slate">
+</canvas>
+</div>
+<div>
+<button align="center" id="stop">stop</button>
+</div>
+<div>
+<button align="center" id="circle">circle</button>
+</div>
+<div>
+<button align="center" id="dvd">dvd</button>
+</div>
+<script src="main.js"></script>
+</body>
+</html>
